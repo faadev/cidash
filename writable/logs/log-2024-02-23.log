@@ -1,0 +1,100 @@
+CRITICAL - 2024-02-23 18:30:07 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layouts/layout_auth.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/layout_auth.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts/layout_auth', [], true)
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('auth/login_frm', [], true)
+ 4 APPPATH\Controllers\Auth.php(12): view('auth/login_frm')
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Auth->login()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-23 18:30:08 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layouts/layout_auth.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/layout_auth.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts/layout_auth', [], true)
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('auth/login_frm', [], true)
+ 4 APPPATH\Controllers\Auth.php(12): view('auth/login_frm')
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Auth->login()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-23 18:31:24 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layouts/layout_auth.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/layout_auth.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts/layout_auth', [], true)
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('auth/login_frm', [], true)
+ 4 APPPATH\Controllers\Auth.php(12): view('auth/login_frm')
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Auth->login()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-23 18:31:24 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layouts/layout_auth.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/layout_auth.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts/layout_auth', [], true)
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('auth/login_frm', [], true)
+ 4 APPPATH\Controllers\Auth.php(12): view('auth/login_frm')
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Auth->login()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-23 18:32:59 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layouts/layout_auth.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/layout_auth.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts/layout_auth', [], true)
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('auth/login_frm', [], true)
+ 4 APPPATH\Controllers\Auth.php(12): view('auth/login_frm')
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Auth->login()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-23 18:33:00 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layouts/layout_auth.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/layout_auth.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts/layout_auth', [], true)
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('auth/login_frm', [], true)
+ 4 APPPATH\Controllers\Auth.php(12): view('auth/login_frm')
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Auth->login()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-23 18:34:29 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layouts/layout_auth.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/layout_auth.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts/layout_auth', [], true)
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('auth/login_frm', [], true)
+ 4 APPPATH\Controllers\Auth.php(12): view('auth/login_frm')
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Auth->login()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-23 18:34:29 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layouts/layout_auth.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/layout_auth.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts/layout_auth', [], true)
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('auth/login_frm', [], true)
+ 4 APPPATH\Controllers\Auth.php(12): view('auth/login_frm')
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Auth->login()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-23 18:42:19 --> ParseError: syntax error, unexpected identifier "min", expecting ")"
+in APPPATH\Views\layouts\layouts_auth.php on line 25.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts/layouts_auth', [], true)
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('auth/login_frm', [], true)
+ 4 APPPATH\Controllers\Auth.php(12): view('auth/login_frm')
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Auth->login()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-23 18:42:20 --> ParseError: syntax error, unexpected identifier "min", expecting ")"
+in APPPATH\Views\layouts\layouts_auth.php on line 25.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts/layouts_auth', [], true)
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('auth/login_frm', [], true)
+ 4 APPPATH\Controllers\Auth.php(12): view('auth/login_frm')
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Auth->login()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
